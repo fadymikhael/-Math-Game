@@ -20,8 +20,8 @@ A **React Native** mobile app for mental math practice, where players solve addi
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/math-game.git
-   cd math-game
+   git clone https://github.com/fadymikhael/-Math-Game.git
+   cd Math-Game
    ```
 2. Install dependencies:  
    ```sh
